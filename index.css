@@ -1,64 +1,62 @@
 main {
     background-color: lightgrey;
     border-radius: 10px;
- }
- 
- img { 
-   display: block;
-   max-width: 100%;
- }
- 
- .canvas { 
-   display: flex;
-   flex-direction: column;
-   flex-wrap:wrap;
-   justify-content: center;
-   align-items: center;
-   background-color: white;
-   margin: 10px;
-   padding-bottom: 30px;
- }
- 
- .top {
-   text-align: center;
-   background-color: lightgrey;
-   margin: 0;
- }
- 
- figcaption { 
-   text-align: center;
-   padding-top: 20px;
- }
- 
- h4 { 
-   text-align: center;
- }
- 
- .one { 
-   padding-bottom: 20px;
-   padding-left: 50px;
-   display: flex;
-   flex-direction: column;
-   flex-wrap: wrap;
-   justify-content: center;
-   align-items: center;
-   max-width: 550px;
-   margin: auto;
- }
- 
- span {
-   font-weight: bold;
- }
- 
- .quote {
-   font-style: italic;
-   text-align: center;
- }
- 
- .foot { 
-   padding: 10px;
-   text-align: center;
-   font-weight: bold;
- }
- 
- 
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.canvas {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: 10px;
+    padding-bottom: 30px;
+}
+
+.top {
+    text-align: center;
+    background-color: lightgrey;
+    margin: 0;
+}
+
+figcaption {
+    text-align: center;
+    padding-top: 20px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.one {
+    padding-bottom: 20px;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 550px;
+    margin: auto;
+}
+
+span {
+    font-weight: bold;
+}
+
+.quote {
+    font-style: italic;
+    text-align: center;
+}
+
+.foot {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
